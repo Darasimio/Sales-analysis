@@ -12,15 +12,13 @@
 - [Recommendation](#Recommendations)
 
 
-
 ## Introduction
 
 Sales analysis is a critical process that helps businesses understand their revenue trends, customer behavior, and overall market performance. By examining sales data, companies can identify patterns, measure the effectiveness of their sales strategies, and make data-driven decisions to improve profitability.
 
 This report provides an in-depth analysis of the sales dataset, highlighting key insights, trends, and potential areas for improvement. It covers the methodology used in analyzing the data, key findings from the sales performance metrics, and actionable recommendations to enhance future sales outcomes.
 
-[Dashboard](bar plot.PNG)
-[Dashboard](https://github.com/user-attachments/assets/6af8799f-12f7-4e59-aecf-cb9d2be68245)
+![Dashboard](https://github.com/user-attachments/assets/6af8799f-12f7-4e59-aecf-cb9d2be68245.PNG)
 
 ## Business Question
 **How can the superstore increase sales and maximize profit across different regions and customer segments?**
