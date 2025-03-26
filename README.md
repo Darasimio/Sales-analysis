@@ -4,11 +4,11 @@
 ## Table of Content
 
 - [Introduction](#Introduction)
-- [Business question](#Business_Question)
-- [About the Data](#About_the_dataset)
-- [Tool](#Tools)
-- [Data Cleaning and Preparations](#Data_cleaning_and_Preparations)
-- [Data Analysis](#Data_analysis)
+- [Business Question](#Business_Question)
+- [About the dataset](#About_the_dataset)
+- [Tools](#Tools)
+- [Data cleaning and Preparation](#Data_cleaning_and_Preparation)
+- [Data analysis](#Data_analysis)
 - [Recommendation](#Recommendations)
 
 
